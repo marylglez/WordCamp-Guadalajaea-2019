@@ -563,7 +563,7 @@ body.admin-bar #navbar {
 	padding: 20px 0 0;
 }
 
-.postid-1762 #main article.hentry .entry-title, #main article.hentry .entry-title a{
+.postid-1762 .entry-title{
 	display: none;
 }
 
