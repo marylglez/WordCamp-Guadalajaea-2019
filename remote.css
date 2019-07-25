@@ -525,6 +525,8 @@ body.admin-bar #navbar {
 }
 
 #main {
+	max-width: 1380px;
+    margin: 0 auto;
 	background: #FFF;
 	border-radius: 2px;
 }
@@ -711,6 +713,10 @@ body.page-id-639 .entry-meta,
 body.page-id-1229 .entry-meta {
 	padding-right: 30px;
 	padding-left: 30px;
+}
+.entry-header, .entry-content, .entry-summary, .entry-meta {
+    max-width: 100%!important;
+    width: 100%;
 }
 
 body.page-id-639 .color-key,
