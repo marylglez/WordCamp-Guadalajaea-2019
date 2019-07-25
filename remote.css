@@ -307,7 +307,15 @@ body.admin-bar #navbar {
 #navbar.navbar .nav-menu li:focus > a {
 	background-color: #4100F4 !important;
 }
-
+.section-call-to-action {
+    background: url(https://2019.saopaulo.wordcamp.org/files/2019/07/wordcamp-sao-paulo-2018-foto-geral.jpg) fixed center/cover;
+    color: #fff;
+    padding: 15px;
+    padding-top: 15vmin !important;
+    padding-bottom: 15vmin !important;
+    position: relative;
+    margin-bottom: 60px;
+}
 @media screen and (max-width: 644px) {
 	#navbar.navbar .nav-menu li:hover > a::after,
 																																																																																			  #navbar.navbar .nav-menu li:focus > a::after {
