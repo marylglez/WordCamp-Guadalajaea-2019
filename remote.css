@@ -316,6 +316,10 @@ body.admin-bar #navbar {
     position: relative;
     margin-bottom: 60px;
 }
+@media (min-width: 1200px) {
+.section-call-to-action {
+    padding: calc(((100vw - 1140px) / 2) + 0px);
+}
 @media screen and (max-width: 644px) {
 	#navbar.navbar .nav-menu li:hover > a::after,
 																																																																																			  #navbar.navbar .nav-menu li:focus > a::after {
