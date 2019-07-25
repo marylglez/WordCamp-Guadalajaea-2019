@@ -316,7 +316,6 @@ body.admin-bar #navbar {
     position: relative;
     margin-bottom: 60px;
 }
-
 @media screen and (max-width: 644px) {
 	#navbar.navbar .nav-menu li:hover > a::after,
 																																																																																			  #navbar.navbar .nav-menu li:focus > a::after {
@@ -534,7 +533,7 @@ body.admin-bar #navbar {
 }
 
 #main {
-	max-width: 1660px;
+	max-width: 1380px;
     margin: 0 auto;
 	background: #FFF;
 	border-radius: 2px;
@@ -580,7 +579,7 @@ body.admin-bar #navbar {
 }
 
 #main article.hentry .entry-content {
-	max-width: 1660px!important;
+	max-width: 1240px!important;
 	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
@@ -590,7 +589,7 @@ body.admin-bar #navbar {
 
 @media screen and (min-width: 644px) {
 	#main {
-		max-width: 1660px;
+		max-width: 1170px;
 		margin: 0 auto;
 	}
 	
