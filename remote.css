@@ -563,6 +563,11 @@ body.admin-bar #navbar {
 	padding: 20px 0 0;
 }
 
+.postid-1762 #main article.hentry .entry-title, #main article.hentry .entry-title a{
+	display: none;
+}
+
+
 #main article.hentry .entry-title a:hover {
 	color: #4100F4;
 	text-decoration: none;
