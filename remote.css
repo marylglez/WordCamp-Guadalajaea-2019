@@ -571,6 +571,7 @@ body.admin-bar #navbar {
 }
 
 #main article.hentry .entry-content {
+	max-width: 1240px;
 	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
