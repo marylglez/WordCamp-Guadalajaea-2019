@@ -716,8 +716,7 @@ body.page-id-1229 .entry-meta {
 	padding-left: 30px;
 }
 .entry-header, .entry-content, .entry-summary, .entry-meta {
-    max-width: 100%!important;
-    width: 100%;
+    max-width: 1240px;
 }
 
 body.page-id-639 .color-key,
