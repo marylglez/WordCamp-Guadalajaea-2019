@@ -191,7 +191,7 @@ html {
 }
 
 body {
-	background: #ffffff url('https://2018.guadalajara.wordcamp.org/files/2018/06/background-wcgdl.jpg') no-repeat;
+	background: #ffffff url('https://2019.guadalajara.wordcamp.org/files/2019/07/background-wcgdl.jpg') no-repeat;
 	background-size: auto 450px;
 	background-position: center top;
 	font-weight: 400;
@@ -210,7 +210,7 @@ body.admin-bar #navbar {
 
 @media screen and (min-width: 650px) {
 	body {
-		background: #ffffff url('https://2018.guadalajara.wordcamp.org/files/2018/06/background-wcgdl.jpg') no-repeat;
+		background: #ffffff url('https://2019.guadalajara.wordcamp.org/files/2019/07/background-wcgdl.jpg') no-repeat;
 		background-size: contain;
 		background-position: center top;
 	}
@@ -218,7 +218,7 @@ body.admin-bar #navbar {
 
 @media screen and (min-width: 1024px) {
 	body {
-		background: #ffffff url('https://2018.guadalajara.wordcamp.org/files/2018/06/background-wcgdl.jpg') no-repeat;
+		background: #ffffff url('https://2019.guadalajara.wordcamp.org/files/2019/07/background-wcgdl.jpg') no-repeat;
 		background-size: contain;
 		background-position: center top;
 	}
@@ -308,7 +308,7 @@ body.admin-bar #navbar {
 	background-color: #4100F4 !important;
 }
 .section-call-to-action {
-    background: url(https://2019.saopaulo.wordcamp.org/files/2019/07/wordcamp-sao-paulo-2018-foto-geral.jpg) fixed center/cover;
+    background: url(https://2018.guadalajara.wordcamp.org/files/2018/06/background-wcgdl.jpg) fixed center/cover;
     color: #fff;
     padding: 15px;
     padding-top: 15vmin !important;
