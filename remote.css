@@ -1447,5 +1447,5 @@ a.wp-block-button__link:visited {
 }
 
 .wcorg-sponsor-description img{
-	display:block;
+	display:block !important;
 }
