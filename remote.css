@@ -1232,27 +1232,27 @@ table.wcpt-schedule thead tr th {
 }
 
 /*home page (abraham)*/
-.post-685>header {
+.page-id-127>header {
 	display: none;
 }
 
-.post-685>.entry-content {
+.page-id-127>.entry-content {
 	padding-left: 0;
 	padding-right: 0;
 }
 
-.post-685>.entry-content>h2 {
+page-id-127>.entry-content>h2 {
 	padding-bottom: 0;
 	margin-top: 5px;
 	margin-bottom: 10px;
 }
 
-.post-685>.entry-content>.wp-block-columns>.wp-block-column>.wp-block-image {
+.page-id-127>.entry-content>.wp-block-columns>.wp-block-column>.wp-block-image {
 	padding-bottom: 0;
 	margin: 2px;
 }
 
-.post-685>.entry-content>.wp-block-columns>.wp-block-column>.wp-block-image>img {
+.page-id-127>.entry-content>.wp-block-columns>.wp-block-column>.wp-block-image>img {
 	padding-bottom: 0 !important;
 }
 
