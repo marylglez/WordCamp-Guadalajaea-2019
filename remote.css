@@ -206,6 +206,7 @@ body.admin-bar {
 
 body.admin-bar #navbar {
 	top: 32px;
+	padding-top: 0px !important;
 }
 
 @media screen and (min-width: 650px) {
