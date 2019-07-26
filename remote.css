@@ -1445,3 +1445,7 @@ a.wp-block-button__link:visited {
 		line-height: 20px;
 	}
 }
+
+.wcorg-sponsor-description img{
+	display:block;
+}
