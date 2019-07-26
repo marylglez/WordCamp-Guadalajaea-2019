@@ -1098,6 +1098,8 @@ a.button,
 
 article.hentry {
 	padding: 15px !important;
+	margin: 0px !important;
+	max-width: 100% !important;
 }
 
 /*Pagina Ponentes (Abraham)*/
