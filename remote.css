@@ -296,6 +296,7 @@ body.admin-bar #navbar {
 
 #navbar.navbar {
 	background: #000;
+	padding: 0px !important;
 }
 
 #navbar.navbar .toggled-on .nav-menu > li a:hover,
