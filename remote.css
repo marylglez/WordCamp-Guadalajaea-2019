@@ -126,7 +126,7 @@ p,
 li,
 input,
 textarea {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Archivo Black', sans-serif;
 }
 
 h3 {
@@ -557,7 +557,7 @@ body.admin-bar #navbar {
 
 #main article.hentry .entry-title,
 #main article.hentry .entry-title a {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Archivo Black', sans-serif;
 	font-size: 32px;
 	font-weight: 600;
 	line-height: 42px;
