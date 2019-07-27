@@ -58,9 +58,6 @@
 
 .entry-content h2, h3, h1.entry-title, h3.entry-title a, h1, h2, h3, h4 {
 	text-transform: uppercase !important;
-	font-size: 24px;
-	font-family: 'Archivo Black', sans-serif;
-
 }
 
 .entry-content h3, .entry-content h2, .entry-title a {
@@ -1459,4 +1456,7 @@ a.wp-block-button__link:visited {
 .wp-block-column {
 	margin-bottom: 0px !important;
     padding-bottom: 0px !important;
+}
+#fb-root{
+	padding: 0px !important;
 }
