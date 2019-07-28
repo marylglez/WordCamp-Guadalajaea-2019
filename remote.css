@@ -270,6 +270,10 @@ body.admin-bar #navbar {
 .icons-block{
     padding: 5%;
 }
+.icon-single{
+	 max-width: 40%;
+    margin: 20px 0 20px 0;
+}
 
 @media screen and (min-width: 1200px) {
 	#masthead.site-header .home-link .site-title {
