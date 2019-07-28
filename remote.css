@@ -279,6 +279,19 @@ body.admin-bar #navbar {
 .wp-block-cover, .wp-block-cover-image{
 	text-align: center;
 }
+.wp-block-cover, .wp-block-cover-image {
+    position: relative;
+    background-color: #000;
+    background-size: cover;
+    background-position: 50%;
+    min-height: 430px;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
 @media screen and (min-width: 1200px) {
 	#masthead.site-header .home-link .site-title {
 		max-width: 600px;
