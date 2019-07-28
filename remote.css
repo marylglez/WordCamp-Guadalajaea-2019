@@ -271,8 +271,8 @@ body.admin-bar #navbar {
     padding: 5%;
 }
 .icon-single{
-	 max-width: 40%!important;
-    margin: 20px 0 20px 0;
+    max-width: 35% !important;
+    margin-top: 30px;
 }
 .wp-block-cover, .wp-block-cover-image{
 	text-align: center;
