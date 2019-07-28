@@ -218,10 +218,13 @@ padding-top:5%;
 padding-bottom: 5%;
 }
 .padding-right-tb{
-
+padding-right: 5%;
+padding-top:5%;
+padding-bottom: 5%;
 }
 .padding-tb{
-
+padding-top:5%;
+padding-bottom: 5%;
 }
 
 @media screen and (min-width: 650px) {
