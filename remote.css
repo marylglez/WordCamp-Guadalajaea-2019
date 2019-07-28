@@ -608,15 +608,22 @@ body.admin-bar #navbar {
 	line-height: 32px;
 	position: relative;
 }
-/*Pages*/
-/*Post*/
+/*Post & Pages*/
 article.type-post.hentry .entry-content, article.type-page.hentry .entry-content {
-    max-width: 1170px !important;
+    max-width: 1120px !important;
 }
 article.type-post.hentry .entry-header, article.type-page.hentry .entry-header{
 	padding-left: 0px;
 }
-
+@media screen and (max-width: 999px) {
+	article.type-post.hentry .entry-header, article.type-page.hentry .entry-header{
+		margin-left: 0px;
+	}
+	.site-main .sidebar-container {
+		top: 0px !important;
+	}
+}
+/*End Post & Pages*/
 @media screen and (min-width: 644px) {
 	#main {
 		max-width: 1600px;
