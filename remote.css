@@ -57,8 +57,9 @@
 }
 
 .entry-content h2, h3, h1.entry-title, h3.entry-title a, h1, h2, h3, h4 {
-	font-size: 32px;
-	font-family: 'Archivo Black', sans-serif;
+    font-weight: 700;
+    font-family: Montserrat,sans-serif;
+    font-size: 55px;
 }
 
 .entry-content h3, .entry-content h2, .entry-title a {
