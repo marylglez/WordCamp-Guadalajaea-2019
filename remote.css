@@ -63,9 +63,6 @@
 
 .entry-content h3, .entry-content h2, .entry-title a {
 }
-h2 {
-    margin: 15px 0;
-}
 .paging-navigation .meta-nav {
 	background-color: #4100F4;
 	border-radius: 50%;
@@ -230,7 +227,7 @@ body.admin-bar #navbar {
 .wp-block-separator {
     width: 200px;
     height: 3px;
-    margin: -50px 0 0;
+    margin: -15px 0 0;
     background-color: #356bf8;
 }
 .site {
