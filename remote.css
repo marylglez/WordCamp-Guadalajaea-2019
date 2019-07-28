@@ -1381,7 +1381,7 @@ table.wcpt-schedule thead tr th {
 
 .sponsor-home-silver>a>img {
 	max-width: 198px;
-	width: 100%;
+	width: auto;
 	max-height: 45px !important;
 }
 
@@ -1538,4 +1538,7 @@ a.wp-block-button__link:visited {
 }
 #fb-root{
 	padding: 0px !important;
+}
+.blog .post {
+    background: none;
 }
