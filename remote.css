@@ -57,13 +57,8 @@
 }
 
 .entry-content h2, h3, h1.entry-title, h3.entry-title a, h1, h2, h3, h4 {
-<<<<<<< HEAD
 	font-size: 32px;
 	font-family: 'Archivo Black', sans-serif;
-
-=======
-	text-transform: uppercase !important;
->>>>>>> 9aaf76e5d3fc3820d2c95baab7c06a00096ca844
 }
 
 .entry-content h3, .entry-content h2, .entry-title a {
