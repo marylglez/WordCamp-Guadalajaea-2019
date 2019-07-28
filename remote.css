@@ -212,6 +212,11 @@ body.admin-bar #navbar {
 	top: 32px;
 	padding-top: 0px !important;
 }
+.icons-block {
+    padding: 5%;
+    background-color: #eff2f1;
+    margin: 0 -40px!important;
+}
 
 @media screen and (min-width: 650px) {
 	body {
