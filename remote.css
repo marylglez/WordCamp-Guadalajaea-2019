@@ -377,6 +377,9 @@ display: none;
 		background-size: 100%;
 		vertical-align: text-bottom;
 	}
+	#masthead.site-header {
+    min-height: 475px;
+}
 }
 
 #navbar.navbar .nav-menu li a {
