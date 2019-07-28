@@ -377,9 +377,7 @@ display: none;
 		background-size: 100%;
 		vertical-align: text-bottom;
 	}
-	.masthead.site-header {
-    background: none;
-    margin-top: 52px;
+	#masthead.site-header {
     min-height: 475px;
 }
 }
