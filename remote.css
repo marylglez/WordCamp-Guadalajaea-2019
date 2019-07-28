@@ -610,10 +610,10 @@ body.admin-bar #navbar {
 }
 /*Pages*/
 /*Post*/
-article.type-post.hentry, article.type-page.hentry .entry-content {
+article.type-post.hentry .entry-content, article.type-page.hentry .entry-content {
     max-width: 1170px !important;
 }
-article.type-post.hentry .entry-header{
+article.type-post.hentry .entry-header, article.type-page.hentry .entry-header{
 	padding-left: 0px;
 }
 
