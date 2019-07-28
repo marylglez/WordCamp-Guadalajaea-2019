@@ -602,7 +602,7 @@ body.admin-bar #navbar {
 
 /*Only Home page*/
 #main article.post-127 .entry-content {
-	max-width: 1240px !important;
+	max-width: 100% !important;
     padding-left: 0px !important;
 }
 /*All*/
