@@ -228,7 +228,7 @@ body.admin-bar #navbar {
 .wp-block-separator {
     height: 3px;
     margin: -15px 0 20px;
-    background-color: #356bf8;
+    background-color: #2cb573;
 }
 .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
     max-width: 150px;
