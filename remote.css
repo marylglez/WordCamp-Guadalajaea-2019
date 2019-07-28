@@ -625,7 +625,8 @@ article.type-page.hentry .entry-header .entry-meta .categories-links{
 	display: none;
 }
 .single-wcb_sponsor .entry-thumbnail {
-    display: block;
+    display: block !important;
+    margin: 30px 0px;
 }
 @media screen and (max-width: 999px) {
 	article.type-post.hentry .entry-header, 
