@@ -1347,9 +1347,9 @@ table.wcpt-schedule thead tr th {
 }
 
 .h-home-bronze {
-	background-color: #CD7F32;
+	background-color: gold;
 	color: white;
-	padding: 0 !important;
+	margin: 0 10% !important;
 }
 
 .sponsor-home-silver {
@@ -1363,9 +1363,9 @@ table.wcpt-schedule thead tr th {
 }
 
 .h-home-silver {
-	background-color: silver;
+	background-color: gold;
 	color: white;
-	padding: 0 !important;
+	margin: 0 10% !important;
 }
 
 .sponsor-home-kind {
@@ -1382,10 +1382,9 @@ table.wcpt-schedule thead tr th {
 	width: 100%;
 }
 
-.h-home-kind {
-	background-color: limegreen;
+.	background-color: gold;
 	color: white;
-	padding: 0 !important;
+	margin: 0 10% !important;
 }
 
 .sponsor-home>a>img {
