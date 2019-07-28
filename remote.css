@@ -606,7 +606,7 @@ body.admin-bar #navbar {
     padding-left: 0px !important;
 }
 .padding-10{
-	padding: 10% 0;
+	padding: 0 10% 0;
 }
 /*All*/
 #main article.hentry .entry-content {
