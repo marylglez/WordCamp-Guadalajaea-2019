@@ -212,20 +212,6 @@ body.admin-bar #navbar {
 	top: 32px;
 	padding-top: 0px !important;
 }
-.padding-left-tb{
-padding-left: 5%
-padding-top:5%;
-padding-bottom: 5%;
-}
-.padding-right-tb{
-padding-right: 5%;
-padding-top:5%;
-padding-bottom: 5%;
-}
-.padding-tb{
-padding-top:5%;
-padding-bottom: 5%;
-}
 
 @media screen and (min-width: 650px) {
 	body {
@@ -241,6 +227,20 @@ padding-bottom: 5%;
 		background-size: 100% 610px;
 		background-position: center top;
 	}
+.padding-left-tb{
+padding-left: 5%
+padding-top:5%;
+padding-bottom: 5%;
+}
+.padding-right-tb{
+padding-right: 5%;
+padding-top:5%;
+padding-bottom: 5%;
+}
+.padding-tb{
+padding-top:5%;
+padding-bottom: 5%;
+}
 }
 .wp-block-separator {
     height: 3px;
