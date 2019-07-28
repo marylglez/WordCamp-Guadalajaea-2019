@@ -609,18 +609,28 @@ body.admin-bar #navbar {
 	position: relative;
 }
 /*Post & Pages*/
-article.type-post.hentry .entry-content, article.type-page.hentry .entry-content {
+article.type-post.hentry .entry-content, 
+article.type-page.hentry .entry-content,
+article.type-wcb_sponsor.hentry .entry-content {
     max-width: 1120px !important;
 	padding-left: 40px !important;
 }
-article.type-post.hentry .entry-header, article.type-page.hentry .entry-header{
+article.type-post.hentry .entry-header, 
+article.type-page.hentry .entry-header,
+article.type-wcb_sponsor.hentry .entry-header{
 	padding-left: 0px;
 }
-article.type-post.hentry .entry-header .entry-meta .categories-links, article.type-page.hentry .entry-header .entry-meta .categories-links{
+article.type-post.hentry .entry-header .entry-meta .categories-links, 
+article.type-page.hentry .entry-header .entry-meta .categories-links{
 	display: none;
 }
+.single-wcb_sponsor .entry-thumbnail {
+    display: block;
+}
 @media screen and (max-width: 999px) {
-	article.type-post.hentry .entry-header, article.type-page.hentry .entry-header{
+	article.type-post.hentry .entry-header, 
+	article.type-page.hentry .entry-header,
+	article.type-wcb_sponsor.hentry .entry-header{
 		margin-left: 0px;
 	}
 	.site-main .sidebar-container {
