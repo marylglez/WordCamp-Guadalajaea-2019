@@ -1449,7 +1449,8 @@ a.wp-block-button__link:visited {
 	}
 	
 	.icons-home-wc-long {
-		display: none;
+		/* display: none; */
+		margin-bottom: 15px;
 	}
 }
 
