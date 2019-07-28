@@ -604,6 +604,13 @@ body.admin-bar #navbar {
 	line-height: 32px;
 	position: relative;
 }
+/*Post*/
+article.type-post.hentry .entry-content {
+    max-width: 1170px !important;
+}
+article.type-post.hentry .entry-header{
+	padding-left: 0px;
+}
 
 @media screen and (min-width: 644px) {
 	#main {
