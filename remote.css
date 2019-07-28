@@ -598,7 +598,8 @@ body.admin-bar #navbar {
 
 /*Only Home page*/
 #main article.post-127 .entry-content {
-	max-width: 1240px;
+	max-width: 1240px !important;
+    padding-left: 0px !important;
 }
 /*All*/
 #main article.hentry .entry-content {
