@@ -269,6 +269,8 @@ body.admin-bar #navbar {
 }
 .icons-block{
     padding: 5%;
+    background-color: #000;
+    margin: 0 -20px 0 -20px;
 }
 .icon-single{
     max-width: 35% !important;
