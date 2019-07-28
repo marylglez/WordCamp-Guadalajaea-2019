@@ -57,9 +57,13 @@
 }
 
 .entry-content h2, h3, h1.entry-title, h3.entry-title a, h1, h2, h3, h4 {
+<<<<<<< HEAD
 	font-size: 32px;
 	font-family: 'Archivo Black', sans-serif;
 
+=======
+	text-transform: uppercase !important;
+>>>>>>> 9aaf76e5d3fc3820d2c95baab7c06a00096ca844
 }
 
 .entry-content h3, .entry-content h2, .entry-title a {
@@ -643,6 +647,8 @@ footer.site-footer .widget-title,
 footer.site-footer .widget-title a,
 footer.site-footer .wp-caption-text {
 	color: #000;
+    text-decoration: none;
+    font: 300 italic 20px "Source Sans Pro", Helvetica, sans-serif;
 }
 
 footer.site-footer .site-info {
@@ -1460,4 +1466,11 @@ a.wp-block-button__link:visited {
 
 .wcorg-sponsor-description img{
 	display:block !important;
+}
+.wp-block-column {
+	margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+#fb-root{
+	padding: 0px !important;
 }
