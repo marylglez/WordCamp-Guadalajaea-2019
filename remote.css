@@ -269,7 +269,10 @@ body.admin-bar #navbar {
 }
 .icons-block{
     background-color: #000;
-
+    margin-left: -20px;
+    color: #fff;
+    margin-right: -20px;
+    padding: 5%;
 }
 
 @media screen and (min-width: 1200px) {
@@ -610,10 +613,7 @@ body.admin-bar #navbar {
 }
 /*All*/
 #main article.hentry .entry-content {
-<<<<<<< HEAD
 	max-width: 100%!important;
-=======
->>>>>>> 9350af0e4b0b9a3e1f8ce89826ca11a61d375291
 	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
