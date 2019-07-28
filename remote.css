@@ -614,7 +614,7 @@ body.admin-bar #navbar {
 	padding: 0 10% 0;
 }
 /*All*/
-#main article.hentry .entry-content {
+#main article.hentry.post-127  .entry-conten.post-127  {
 	max-width: 100%!important;
 	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
