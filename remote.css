@@ -268,10 +268,10 @@ body.admin-bar #navbar {
 	text-align: center;
 	color: #fff;
 }
-.icons-block{
-    padding: 5%;
+.icons-block {
+    padding: 0%;
     background-color: #eff2f1;
-    margin: 0 -20px 0 -20px;
+    margin: 0 -40px!important;
 }
 .icon-single{
     max-width: 35% !important;
