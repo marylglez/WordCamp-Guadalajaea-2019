@@ -635,6 +635,8 @@ footer.site-footer .widget-title,
 footer.site-footer .widget-title a,
 footer.site-footer .wp-caption-text {
 	color: #000;
+    text-decoration: none;
+    font: 300 italic 20px "Source Sans Pro", Helvetica, sans-serif;
 }
 
 footer.site-footer .site-info {
