@@ -1347,7 +1347,7 @@ table.wcpt-schedule thead tr th {
 }
 
 .h-home-bronze {
-	background-color: gold;
+	background-color: #CD7F32;
 	color: white;
 	margin: 0 10% !important;
 }
@@ -1363,7 +1363,7 @@ table.wcpt-schedule thead tr th {
 }
 
 .h-home-silver {
-	background-color: gold;
+	background-color: silver;
 	color: white;
 	margin: 0 10% !important;
 }
@@ -1382,7 +1382,8 @@ table.wcpt-schedule thead tr th {
 	width: 100%;
 }
 
-.	background-color: gold;
+.h-home-kind {
+	background-color: limegreen;
 	color: white;
 	margin: 0 10% !important;
 }
