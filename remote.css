@@ -225,10 +225,12 @@ body.admin-bar #navbar {
 	}
 }
 .wp-block-separator {
-    width: 200px;
     height: 3px;
-    margin: -15px 0 0;
+    margin: -15px 0 20px;
     background-color: #356bf8;
+}
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+    max-width: 150px;
 }
 .site {
 	background: transparent;
