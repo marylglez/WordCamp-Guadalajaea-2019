@@ -596,16 +596,21 @@ body.admin-bar #navbar {
 	display: none;
 }
 
-#main article.hentry .entry-content {
+/*Only Home page*/
+#main article.post-127 .entry-content {
 	max-width: 1240px;
+}
+/*All*/
+#main article.hentry .entry-content {
 	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
 	line-height: 32px;
 	position: relative;
 }
+/*Pages*/
 /*Post*/
-article.type-post.hentry .entry-content {
+article.type-post.hentry, article.type-page.hentry .entry-content {
     max-width: 1170px !important;
 }
 article.type-post.hentry .entry-header{
