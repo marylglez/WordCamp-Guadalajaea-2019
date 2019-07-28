@@ -271,10 +271,12 @@ body.admin-bar #navbar {
     padding: 5%;
 }
 .icon-single{
-	 max-width: 40%;
+	 max-width: 35%;
     margin: 20px 0 20px 0;
 }
-
+.wp-block-cover, .wp-block-cover-image{
+	text-align: center;
+}
 @media screen and (min-width: 1200px) {
 	#masthead.site-header .home-link .site-title {
 		max-width: 600px;
