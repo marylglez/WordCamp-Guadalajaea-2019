@@ -199,7 +199,7 @@ body {
 	background-size: auto 530px;
 	background-position: center top;
 	font-weight: 400;
-	font-family: 'Palanquin', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #313237;
 	padding-bottom: 0 !important;
 }
@@ -264,6 +264,11 @@ padding-bottom: 5%;
 }
 
 @media screen and (min-width: 644px) {
+	body {
+		background: #ffffff url('https://2019.guadalajara.wordcamp.org/files/2019/07/background-wcgdl-3.jpg') no-repeat;
+		background-size: 100% 610px;
+		background-position: center top;
+	}	
 	#masthead.site-header {
 		margin-top: 60px;
 	}
@@ -763,6 +768,7 @@ body.tagregator .tggr-media-item {
 }
 
 @media screen and (min-width: 644px) {
+	
 	#secondary .wcb_widget_sponsors .sponsor-level .sponsor-logo {
 		width: 50%;
 		display: block;
