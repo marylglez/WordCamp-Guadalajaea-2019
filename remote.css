@@ -763,6 +763,12 @@ body.tagregator .tggr-media-item {
 }
 
 @media screen and (min-width: 644px) {
+	#masthead.site-header .home-link .site-title {
+		max-width: 600px;
+		background-size: contain;
+		margin: 0 auto;
+    	margin-top: 150px;
+	}	
 	#secondary .wcb_widget_sponsors .sponsor-level .sponsor-logo {
 		width: 50%;
 		display: block;
