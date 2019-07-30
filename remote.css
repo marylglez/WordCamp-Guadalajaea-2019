@@ -266,6 +266,10 @@ padding-bottom: 5%;
 @media screen and (min-width: 644px) {
 	#masthead.site-header {
 		margin-top: 60px;
+		max-width: 600px;
+		background-size: contain;
+		margin: 0 auto;
+    	margin-top: 150px;
 	}
 }
 
