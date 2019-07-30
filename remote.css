@@ -722,7 +722,12 @@ footer.site-footer .widget-title a,
 footer.site-footer .wp-caption-text {
 	color: #000;
     text-decoration: none;
-    font: 300 italic 20px "Source Sans Pro", Helvetica, sans-serif;
+    font: 600 italic 20px "Open Sans", Helvetica, sans-serif;
+}
+.widget-title, .widget-title a {
+	color: #000;
+	text-decoration: none;
+	font: 600 italic 20px "Open Sans", Helvetica, sans-serif;
 }
 
 footer.site-footer .site-info {
