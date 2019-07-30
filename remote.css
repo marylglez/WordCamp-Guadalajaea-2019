@@ -769,6 +769,17 @@ body.tagregator .tggr-media-item {
 		margin: 0 auto;
     	margin-top: 150px;
 	}	
+	.site-header {
+	    background-image: url(https://2019.oc.wordcamp.org/files/2019/02/wcoc2019-website-header-graphic.jpg);
+	    background-position: center center;
+	    background-size: cover;
+	    text-align: center;
+	    background-position: center 120px;
+	    background-repeat: no-repeat;
+	    background-size: 480px auto;
+	    min-height: auto;
+	    background-position: center 60px;
+	}
 	#secondary .wcb_widget_sponsors .sponsor-level .sponsor-logo {
 		width: 50%;
 		display: block;
