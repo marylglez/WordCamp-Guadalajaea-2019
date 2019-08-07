@@ -325,7 +325,7 @@ padding-bottom: 5%;
 
 #masthead.site-header .home-link .site-description {
     margin: 0 auto;
-    top: 10px;
+    top: -340px;
     clip: auto;
     position: relative;
     text-align: center;
