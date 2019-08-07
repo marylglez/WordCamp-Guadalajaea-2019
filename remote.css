@@ -343,6 +343,7 @@ padding-bottom: 5%;
 	margin: 0 auto;
 	position: relative;
 	top: 20px;
+	padding: 0px!important;
 }
 
 #navbar.navbar {
