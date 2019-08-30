@@ -150,7 +150,9 @@ a,
 	-o-transition: all 200ms ease-in-out;
 	transition: all 200ms ease-in-out;
 }
-
+.entry-thumbnail{
+	margin-top: 60px;
+}
 a:visited,
 .entry-meta a:visited,
 .entry-content a:visited,
