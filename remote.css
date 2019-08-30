@@ -1439,7 +1439,8 @@ table.wcpt-schedule thead tr th {
 }
 
 .sponsor-home>a>img {
-	max-height: 125px;
+	max-height: 250px;
+	max-width: 250px;
 	margin: auto;
 	padding-bottom: 0;
 }
