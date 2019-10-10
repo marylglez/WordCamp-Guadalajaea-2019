@@ -1458,12 +1458,13 @@ a.wp-block-button__link:visited {
 }
 
 /*Programa (Abraham)*/
-/*.wcpt-track-name {
-	display: none !important;
-}*/
-
 .wcpt-col-track {
 	text-align: center !important;
+}
+
+#post-127 .entry-content .wcpt-schedule {
+    width: 90% !important;
+    margin: auto;
 }
 
 .wcb-session-cell-content {
@@ -1501,7 +1502,7 @@ a.wp-block-button__link:visited {
     text-align: center;
 }
 
-.wcb-session-descanso,.wcb-session-descanso-2,.wcb-session-registro,.wcb-session-inauguracion,.wcb-session-box-lunch,.wcb-session-clausura {
+.wcb-session-descanso,.wcb-session-descanso-2,.wcb-session-registro,.wcb-session-inauguracion,.wcb-session-box-lunch,.wcb-session-clausura, .wcb-session-registro-talleres, .wcb-session-after-party {
 	background-color: #f4f4f4;
 }
 
