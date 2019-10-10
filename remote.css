@@ -1481,12 +1481,14 @@ a.wp-block-button__link:visited {
 	color: black;
 }
 
-.wcb-speaker-chris-lema>.wcb-session-cell-content>a {
-	text-align: center;
+.wcb-speaker-mariana-salas-ruiz>.wcb-session-cell-content>a{
+    text-align: center;
 }
-
-.wcb-speaker-chris-lema>.wcb-session-cell-content {
-	text-align: center;
+.wcb-speaker-guillermo-camarena>.wcb-session-cell-content>a{
+    text-align: center;
+}
+.wcb-speaker-matias-sanchez-moises>.wcb-session-cell-content>a{
+    text-align: center;
 }
 
 .wcb-session-descanso,.wcb-session-descanso-2,.wcb-session-registro,.wcb-session-inauguracion,.wcb-session-box-lunch,.wcb-session-clausura {
