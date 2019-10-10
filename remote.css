@@ -1566,6 +1566,6 @@ a.wp-block-button__link:visited {
 .blog .post {
     background: none;
 }
-.wcb_speaker .author-info {
+.wcb_speaker .author-info, .wcb_session .author-info {
     display: none !important;
 }
