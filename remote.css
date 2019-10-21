@@ -1489,7 +1489,7 @@ a.wp-block-button__link:visited {
 .wcb-session-descanso,.wcb-session-descanso-2,.wcb-session-registro,.wcb-session-inauguracion,.wcb-session-box-lunch,.wcb-session-clausura, .wcb-session-registro-talleres, .wcb-session-after-party {
 	background-color: #f4f4f4;
 }
-.wcb-session-descanso,.wcb-session-descanso-2{
+.wcb-session-descanso .wcb-session-cell-content, .wcb-session-descanso .wcb-session-cell-content>a, .wcb-session-descanso-2 .wcb-session-cell-content, .wcb-session-descanso-2 .wcb-session-cell-content>a{
 	text-align: center;
 }
 
